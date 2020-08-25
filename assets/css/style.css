@@ -1,0 +1,37 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.hero-section{
+    background-image: url("../img/Approves.png");  
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    padding-top: 400px;
+    height: 600px;
+}
+.navbar h3{
+    height: 100%;
+}
+
+.navbar a{
+    font-size: 16px;
+    font-weight: ;
+}
+
+.hero-section h1{
+    font-size: 72px;
+}
+.trabajos{
+    background-color: black;
+}
+
+.foot{
+    vertical-align: middle;
+    
+}
+
+.foot a{
+    text-decoration: none;
+    color: #ffffff;
+}
